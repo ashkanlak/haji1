@@ -13,6 +13,7 @@ body{
     background-size:cover;
     margin-top:-2.28vw;
     background-repeat: no-repeat;
+    overflow-x: hidden;
 }
 #haji{
     background-image:url('https://s.7learn.com/themes/slt/assets/pics/logo.svg');
