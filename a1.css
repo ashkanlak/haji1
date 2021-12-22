@@ -1,6 +1,6 @@
 @font-face {
     font-family:haji;
-    src: url(Samim-Bold.ttf);
+    src: url(/font/Samim-Bold.ttf);
 }
 *{
     font-family:haji;
@@ -90,7 +90,7 @@ ul li a{
     font-size:1vw;
     margin-right:1vw;
     text-decoration:none;
-    color:rgb(92, 92, 92);
+    color:rgb(61, 61, 61);
     padding:0.6vw 1vw;
     transition-duration:0.5s;
 }
@@ -354,3 +354,41 @@ span p{
     width:40vw;
     margin:14vw;
 }
+footer ul img{
+    width:4vw;
+}
+footer ul{
+    position:absolute;
+    right:15vw;
+    margin-top:10vw;
+}
+#matn22{
+    line-height:2vw;
+    position:absolute;
+    right:8vw;
+    margin-top:16vw;
+    font-size:0.8vw;
+    color:#626262;
+    white-space: pre-line;
+}
+.matn23{
+    display:inline;
+    position: absolute;
+    color: #101e22;
+    font-size:1vw;
+}
+.lak1{
+    right:8vw;
+    margin-top: 24.4vw;
+}
+.lak2{
+    right:20vw;
+    margin-top: 24.2vw;
+}
+#imglak{
+    width:12vw;
+    position:absolute;
+    left:5vw;
+    margin-top:17vw;
+}
+
