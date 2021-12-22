@@ -1,8 +1,6 @@
 @font-face {
     font-family:haji;
-    src: url(/font/Samim-Bold.ttf);
-    src: url(/font/format/Samim-Bold.woff);
-    src: url(/font/format/Samim.eot);
+    src: url('/font/format/Samim.woff');
 }
 *{
     font-family:haji;
